@@ -15,5 +15,9 @@ https://github.com/coelhona/ECE444-F2022-Lab1
 ![image](https://user-images.githubusercontent.com/68239498/190679165-740e3036-a10e-47e9-b58f-b7a3a5b6a617.png)  
 ![image](https://user-images.githubusercontent.com/68239498/190679222-caf615be-7621-4bbc-a516-6e3dbf70d3d5.png)  
 
-Activity 7:  
+Activity 5:  
+![image](https://user-images.githubusercontent.com/68239498/190683834-4ed093cb-a8fc-42d8-b041-4a6f95edf59c.png)  
+![image](https://user-images.githubusercontent.com/68239498/190683608-3b590102-1f8e-41d5-9305-ec2cdaeaed36.png)  
+
+Activity 6:  
 https://github.com/CHAXZeni/ECE444-F2022-EP
