@@ -10,5 +10,10 @@ Activity 2:
 Activity 3:  
 ![image](https://user-images.githubusercontent.com/68239498/190670383-a247c100-65e1-4785-a528-365bea581d76.png)  
 
+Activity 4:  
+https://github.com/coelhona/ECE444-F2022-Lab1  
+![image](https://user-images.githubusercontent.com/68239498/190679165-740e3036-a10e-47e9-b58f-b7a3a5b6a617.png)  
+![image](https://user-images.githubusercontent.com/68239498/190679222-caf615be-7621-4bbc-a516-6e3dbf70d3d5.png)  
+
 Activity 7:  
 https://github.com/CHAXZeni/ECE444-F2022-EP
